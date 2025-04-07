@@ -1,0 +1,37 @@
+
+# Compiled object files
+*.o
+*.obj
+*.lo
+*.slo
+
+# Compiled binary files
+*.exe
+*.out
+*.app
+*.elf
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Visual Studio Code
+.vscode/
+
+*.log
+*.vcd
+*.out
+*.o
+*.vvp
+*.fst
+*.svf
+*.bak
+*.tcl
+NTT/work/
+modelsim.ini
+
