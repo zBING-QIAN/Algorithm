@@ -1,0 +1,262 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\zbqwo\workspace\Learning_Verilog\SuffixAutomaton
+vconv
+Z1 DXx6 sv_std 3 std 0 22 F[19LRNL:5;XmIFh[XOPn1
+Z2 DXx4 work 12 mytb_sv_unit 0 22 l;QccMz4K2OzB4fc64OAm2
+Z3 Ve5Of:KUaY7UYROz9[NebV1
+r1
+!s85 0
+31
+!i10b 1
+Z4 !s100 XHjiIH9ga<Zdnf56jNIRc0
+Z5 I]GST]me:2;Kf3Zd@D;CX03
+Z6 !s105 mytb_sv_unit
+S1
+Z7 dC:\Users\zbqwo\workspace\Algorithm\NTT
+Z8 w1743456793
+Z9 Fconv.sv
+Z10 8mytb.sv
+Z11 Fmytb.sv
+L0 5
+Z12 OV;L;10.1d;51
+Z13 !s108 1744058142.065000
+Z14 !s107 ./ntt.sv|conv.sv|./verification/generator.sv|./verification/score_board_NTT.sv|./verification/score_board.sv|./verification/aux_if.sv|./verification/dut_if.sv|./verification/transaction.sv|./verification/driver.sv|./verification/environment.sv|mytb.sv|
+Z15 !s90 -reportprogress|300|mytb.sv|./verification/NTTConv.cpp|
+!s101 -O0
+o-O0
+Yconv_if
+R1
+R2
+Z16 VEnT:nc@MKo:HokJzB@PP32
+r1
+!s85 0
+31
+!i10b 1
+Z17 !s100 XnYa7ZLHnGL0`6KoDE@ZD0
+Z18 I8aSdD>9@eX?_ES26LSe_S1
+R6
+S1
+R7
+R8
+Z19 F./verification/dut_if.sv
+R10
+R11
+L0 3
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+vfastpow
+R1
+R2
+Z20 VYh1??U62YR[La`?T@=bBV2
+r1
+!s85 0
+31
+!i10b 1
+Z21 !s100 J86E4Fz8D]FRYiW>^<H^O1
+Z22 II4EIVNAI[a5[I2dJ1]`f41
+R6
+S1
+R7
+Z23 w1743496452
+Z24 F./ntt.sv
+R10
+R11
+Z25 L0 332
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+Ymemory_if
+R1
+R2
+Z26 V^YThb[[Na?GnU;z8]n^]R1
+r1
+!s85 0
+31
+!i10b 1
+Z27 !s100 S2@ldSW6ka3[G`>YMfoc`0
+Z28 I2MjK_L[GUnA>X]`i1[b5B0
+R6
+S1
+R7
+Z29 w1743497907
+Z30 F./verification/aux_if.sv
+R10
+R11
+L0 4
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+Ymemory_linker_if
+R1
+R2
+Z31 VcjA[khW;;>1QzdE`[Yi8Y2
+r1
+!s85 0
+31
+!i10b 1
+Z32 !s100 MC<D]LnV>XjP2fgd]QV:N0
+Z33 I^GeGeoI]fR5eK9YI`]6];2
+R6
+S1
+R7
+R29
+R30
+R10
+R11
+L0 35
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+vmytb
+R1
+R2
+Z34 Vj3f61UWVcna9`bIOJEPaN3
+r1
+!s85 0
+31
+!i10b 1
+Z35 !s100 CJQmKAj`HfNYkoK7n`hY[1
+Z36 II^0_o71W@XP83NVcbRT]a0
+R6
+S1
+R7
+R8
+R10
+R11
+L0 10
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+Xmytb_sv_unit
+R1
+Z37 Vl;QccMz4K2OzB4fc64OAm2
+r1
+!s85 0
+31
+!i10b 1
+Z38 !s100 :?f4g1b_0<e[A:>[BJA[:1
+Z39 Il;QccMz4K2OzB4fc64OAm2
+!i103 1
+S1
+R7
+Z40 w1744043985
+R10
+R11
+Z41 F./verification/environment.sv
+Z42 F./verification/driver.sv
+Z43 F./verification/transaction.sv
+R19
+R30
+Z44 F./verification/score_board.sv
+R43
+Z45 F./verification/score_board_NTT.sv
+R43
+Z46 F./verification/generator.sv
+R43
+R43
+R19
+R30
+R19
+R30
+R9
+R19
+R30
+R24
+L3 4
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+vntt
+R1
+R2
+Z47 V^bTgCGH?omVcTMj2ZgMRc1
+r1
+!s85 0
+31
+!i10b 1
+Z48 !s100 TNJ>EXJ^=ZVZP;5k2RkK=0
+Z49 IS;1l2lFRk>2@I73zlZ3K[2
+R6
+S1
+R7
+R23
+R24
+R10
+R11
+L0 2
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+Yntt_if
+R1
+R2
+Z50 V2g<bBbjJ1a`5PO@AfKCBC1
+r1
+!s85 0
+31
+!i10b 1
+Z51 !s100 fWW1J=X;]OYehPMl?5AEV3
+Z52 I5UQz1@7]2MB4FjbS10N823
+R6
+S1
+R7
+R8
+R19
+R10
+R11
+L0 15
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
+vrearrange
+R1
+R2
+Z53 VRo]ZgTh0`co9AMVSNY1GD1
+r1
+!s85 0
+31
+!i10b 1
+Z54 !s100 [:5iUI6Rj95Icl:^J7B7b1
+Z55 I]:JaF[KEd:^Jc_3imM11A2
+R6
+S1
+R7
+R23
+R24
+R10
+R11
+Z56 L0 208
+R12
+R13
+R14
+R15
+!s101 -O0
+o-O0
