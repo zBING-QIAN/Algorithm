@@ -14,8 +14,8 @@ int main(int argc, char *argv[])
 
     for (int i = 0; i < n; i++)
     {
-        if (i * 2 < n)
-            file << rand() % 256 << " ";
+        if (i < n)
+            file << rand() % 128 << " ";
         else
             file << "0 ";
     }
@@ -23,8 +23,8 @@ int main(int argc, char *argv[])
 
     for (int i = 0; i < n; i++)
     {
-        if (i * 2 < n)
-            file << rand() % 256 << " ";
+        if (i < n)
+            file << rand() % 128 << " ";
         else
             file << "0 ";
     }
