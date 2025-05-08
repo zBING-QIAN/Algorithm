@@ -11,11 +11,11 @@ int main(int argc, char *argv[])
     }
     srand(std::chrono::high_resolution_clock::now().time_since_epoch().count());
     int n = 256;
-
+    int limit = 111;
     for (int i = 0; i < n; i++)
     {
         if (i < n)
-            file << rand() % 128 << " ";
+            file << rand() % limit << " ";
         else
             file << "0 ";
     }
@@ -24,7 +24,7 @@ int main(int argc, char *argv[])
     for (int i = 0; i < n; i++)
     {
         if (i < n)
-            file << rand() % 128 << " ";
+            file << rand() % limit << " ";
         else
             file << "0 ";
     }
